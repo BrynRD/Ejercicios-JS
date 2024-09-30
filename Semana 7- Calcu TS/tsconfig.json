@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "target": "es2016",                  
-    "module": "commonjs",               
-    "outDir": "./dist",                  
-    "forceConsistentCasingInFileNames": true  
-  },
-  "include": ["app/**/*.ts"]  
-}
