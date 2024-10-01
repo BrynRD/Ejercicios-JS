@@ -1,2 +1,2 @@
 
-Demo🌐: https://brynrd.github.io/JS-Avanzado/
+Demo🌐: https://brynrd.github.io/Ejercicios-JS/
